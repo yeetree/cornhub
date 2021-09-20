@@ -31,7 +31,7 @@
 /* Style the "active" element to highlight the current page */
 .topnav a.active {
   background-color: #2196F3;
-  color: white;
+  color: grey;
 }
 
 /* Style the search box inside the navigation bar */
